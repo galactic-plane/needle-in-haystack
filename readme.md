@@ -1,4 +1,6 @@
+ <div style="text-align:center;">
  <img src="haystack/haystack.png" alt="Haystack" style="height:300px; width:300px;">
+ </div>
 
 # 🧵 Needle in a Haystack 🧵
 
@@ -34,6 +36,7 @@ setup.py
 
 - Python 3.8 or higher
 - pip (Python package installer)
+- Florence2 (https://pinokio.computer/item?uri=https://github.com/pinokiofactory/florence2)
 
 ### 📥 Installation 📥
 
@@ -58,15 +61,22 @@ requirements.txt
 
 ## 🚀 Usage 🚀
 
-### 🖥️ Starting the Server 🖥️
+### 📥 Installing Pinokio and Downloading Florence2 Model 📥
 
-To start the server and open the interactive HTML gallery in your browser, run:
+Before processing images, you need to install Pinokio and download the Florence2 Model.
 
-```sh
-python server.py
-```
+1. **Install Pinokio:**
+   - If Pinokio is not already installed, you can install it using pip:
+     ```sh
+     pip install pinokio
+     ```
 
-You will be prompted to open the browser automatically. Type `y` for yes or `n` for no.
+2. **Download the Florence2 Model:**
+   - After installing Pinokio, download the Florence2 Model by running:
+     ```sh
+     pinokio download florence2
+     ```
+   - This will download and set up the Florence2 Model in the appropriate directory.
 
 ### 🖼️ Processing Images 🖼️
 
@@ -78,6 +88,17 @@ python start.py
 
 This script will process images in the `images/` directory, generate captions and object detection results, and save the annotated images in the `annotated/` directory. The results will be saved in `image_data.json` and `viewer.html`.
 
+
+### 🖥️ Starting the Server 🖥️
+
+To start the server and open the interactive HTML gallery in your browser, run:
+
+```sh
+python server.py
+```
+
+You will be prompted to open the browser automatically. Type `y` for yes or `n` for no.  If yes, the viewer.html will launch in a browser.  This file was created in the previous step.
+
 ### 📊 Benchmarking Models 📊
 
 To benchmark different Florence models on your images, run:
@@ -87,6 +108,15 @@ python benchmark.py
 ```
 
 This script will benchmark the models on images in the `benchmark/` directory and display system stats in real-time and give you recommendations based on your computer's performance.
+
+ <div style="text-align:center;">
+ <table>
+ <tr>
+ <td><img src="benchmark1.png" alt="Haystack" style="height:300px; width:300px;"></td>
+ <td><img src="benchmark2.png" alt="Haystack" style="height:300px; width:300px;"></td>
+ </tr>
+ </table>
+ </div>
 
 ## 📄 Project Files 📄
 
