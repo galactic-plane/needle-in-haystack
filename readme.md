@@ -89,7 +89,7 @@ python start.py
 This script will process images in the `images/` directory, generate captions and object detection results, and save the annotated images in the `annotated/` directory. The results will be saved in `image_data.json` and `viewer.html`.
 
 <p align="center">
-  <img src="start.png" alt="Haystack" style="height:400px; width:auto;">
+  <img src="start.png" alt="Haystack" style="height:auto; width:auto;">
 </p>
 
 ### 🖥️ Starting the Server 🖥️
@@ -103,7 +103,7 @@ python server.py
 You will be prompted to open the browser automatically. Type `y` for yes or `n` for no.  If yes, the viewer.html will launch in a browser.  This file was created in the previous step.
 
 <p align="center">
-  <img src="server.png" alt="Haystack" style="height:400px; width:auto;">
+  <img src="server.png" alt="Haystack" style="height:auto; width:auto;">
 </p>
 
 ### 📊 Benchmarking Models 📊
@@ -119,8 +119,8 @@ This script will benchmark the models on images in the `benchmark/` directory an
 <p align="center">
   <table>
     <tr>
-      <td><img src="benchmark1.png" alt="Haystack" style="height:400px; width:auto;"></td>
-      <td><img src="benchmark2.png" alt="Haystack" style="height:400px; width:auto;"></td>
+      <td><img src="benchmark1.png" alt="Haystack" style="height:auto; width:auto;"></td>
+      <td><img src="benchmark2.png" alt="Haystack" style="height:auto; width:auto;"></td>
     </tr>
   </table>
 </p>
