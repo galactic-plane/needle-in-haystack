@@ -1,0 +1,578 @@
+{
+  "images": [
+    {
+      "original_path": "./images/1.png",
+      "annotated_path": "./annotated/annotated_1_20241213101347616461.png",
+      "combined_json": {
+        "Caption": {
+          "Caption": "A man standing next to a bike in front of graffiti covered shutters."
+        },
+        "Detailed Caption": {
+          "Detailed Caption": "In this image we can see a person wearing a helmet and holding a mobile in his hand. We can also see a bicycle on the road. In the background, we can the shutters with some text on them."
+        },
+        "Object Detection": {
+          "Object Detection": {
+            "bboxes": [
+              [
+                255.69749450683594,
+                160.125,
+                472.5124816894531,
+                311.3249816894531
+              ],
+              [
+                411.22747802734375,
+                114.2750015258789,
+                443.6724853515625,
+                145.0749969482422
+              ],
+              [
+                381.35748291015625,
+                230.8249969482422,
+                470.9674987792969,
+                310.625
+              ],
+              [
+                255.69749450683594,
+                233.27499389648438,
+                328.8274841308594,
+                311.3249816894531
+              ],
+              [
+                428.73748779296875,
+                302.92498779296875,
+                451.3974914550781,
+                331.625
+              ],
+              [
+                409.16748046875,
+                314.4750061035156,
+                430.2825012207031,
+                333.0249938964844
+              ],
+              [
+                386.5074768066406,
+                114.2750015258789,
+                455.5174865722656,
+                332.67498779296875
+              ],
+              [
+                285.5675048828125,
+                181.8249969482422,
+                329.3424987792969,
+                228.375
+              ]
+            ],
+            "labels": [
+              "bicycle",
+              "bicycle helmet",
+              "bicycle wheel",
+              "bicycle wheel",
+              "footwear",
+              "footwear",
+              "person",
+              "picnic basket"
+            ]
+          }
+        }
+      },
+      "modal_title": "Image"
+    },
+    {
+      "original_path": "./images/10.png",
+      "annotated_path": "./annotated/annotated_10_20241213101354250958.png",
+      "combined_json": {
+        "Caption": {
+          "Caption": "The sun is setting over a small island in the ocean."
+        },
+        "Detailed Caption": {
+          "Detailed Caption": "In this image we can see the sun in the sky. In the foreground of the image there is water."
+        },
+        "Object Detection": {
+          "Object Detection": {
+            "bboxes": [
+              [
+                281.0880126953125,
+                666.112060546875,
+                669.1840209960938,
+                721.4080200195312
+              ]
+            ],
+            "labels": [
+              "surfboard"
+            ]
+          }
+        }
+      },
+      "modal_title": "Image"
+    },
+    {
+      "original_path": "./images/11.png",
+      "annotated_path": "./annotated/annotated_11_20241213101402616844.png",
+      "combined_json": {
+        "Caption": {
+          "Caption": "A living room with a couch, ottoman and a kitchen."
+        },
+        "Detailed Caption": {
+          "Detailed Caption": "In this picture we can see a sofa with pillows on it and aside to this sofa we have a table and chairs and in the background we have cupboards, lights, refrigerator, wall, windows, trees and some objects."
+        },
+        "Object Detection": {
+          "Object Detection": {
+            "bboxes": [
+              [
+                71.16800689697266,
+                413.18402099609375,
+                321.0240173339844,
+                505.3440246582031
+              ],
+              [
+                227.8400115966797,
+                552.447998046875,
+                318.97601318359375,
+                664.0640258789062
+              ],
+              [
+                147.96800231933594,
+                552.447998046875,
+                226.81600952148438,
+                660.9920043945312
+              ],
+              [
+                300.54400634765625,
+                547.3280029296875,
+                358.9120178222656,
+                643.5840454101562
+              ],
+              [
+                171.52000427246094,
+                549.3760375976562,
+                335.3600158691406,
+                654.8480224609375
+              ],
+              [
+                0.5120000243186951,
+                0.5120000243186951,
+                1022.4640502929688,
+                1022.4640502929688
+              ],
+              [
+                142.84800720214844,
+                542.2080078125,
+                356.864013671875,
+                658.9440307617188
+              ],
+              [
+                327.16802978515625,
+                552.447998046875,
+                1022.4640502929688,
+                791.0400390625
+              ],
+              [
+                570.8800048828125,
+                657.9200439453125,
+                890.3680419921875,
+                877.0560302734375
+              ],
+              [
+                804.35205078125,
+                272.8960266113281,
+                982.528076171875,
+                559.6160278320312
+              ],
+              [
+                663.0400390625,
+                324.09600830078125,
+                784.8960571289062,
+                554.4960327148438
+              ],
+              [
+                418.30401611328125,
+                414.2080078125,
+                531.968017578125,
+                571.904052734375
+              ]
+            ],
+            "labels": [
+              "cabinetry",
+              "chair",
+              "chair",
+              "chair",
+              "coffee table",
+              "house",
+              "kitchen & dining room table",
+              "studio couch",
+              "table",
+              "window",
+              "window",
+              "window"
+            ]
+          }
+        }
+      },
+      "modal_title": "Image"
+    },
+    {
+      "original_path": "./images/2.png",
+      "annotated_path": "./annotated/annotated_2_20241213101409665675.png",
+      "combined_json": {
+        "Caption": {
+          "Caption": "A squirrel standing on its hind legs next to a plate of flowers."
+        },
+        "Detailed Caption": {
+          "Detailed Caption": "In this image we can see a squirrel on the table. We can also see a plate, a plant with flowers and the background is blurred."
+        },
+        "Object Detection": {
+          "Object Detection": {
+            "bboxes": [
+              [
+                60.51249694824219,
+                277.7250061035156,
+                273.2074890136719,
+                329.875
+              ],
+              [
+                9.52750015258789,
+                15.574999809265137,
+                232.52249145507812,
+                258.8249816894531
+              ],
+              [
+                9.012499809265137,
+                15.574999809265137,
+                234.06748962402344,
+                329.5249938964844
+              ],
+              [
+                219.1324920654297,
+                71.2249984741211,
+                498.7774963378906,
+                323.5749816894531
+              ]
+            ],
+            "labels": [
+              "bowl",
+              "flower",
+              "houseplant",
+              "squirrel"
+            ]
+          }
+        }
+      },
+      "modal_title": "Image"
+    },
+    {
+      "original_path": "./images/3.jpg",
+      "annotated_path": "./annotated/annotated_3_20241213101416471076.png",
+      "combined_json": {
+        "Caption": {
+          "Caption": "A green car parked in front of a yellow building."
+        },
+        "Detailed Caption": {
+          "Detailed Caption": "In this image, we can see a car on the road and in the background, there are doors and we can also see a wall. At the top, there is sky."
+        },
+        "Object Detection": {
+          "Object Detection": {
+            "bboxes": [
+              [
+                34.880001068115234,
+                160.55999755859375,
+                597.4400024414062,
+                371.7599792480469
+              ],
+              [
+                453.44000244140625,
+                276.7200012207031,
+                553.9199829101562,
+                370.79998779296875
+              ],
+              [
+                93.75999450683594,
+                280.55999755859375,
+                197.44000244140625,
+                371.2799987792969
+              ]
+            ],
+            "labels": [
+              "car",
+              "wheel",
+              "wheel"
+            ]
+          }
+        }
+      },
+      "modal_title": "Image"
+    },
+    {
+      "original_path": "./images/4.png",
+      "annotated_path": "./annotated/annotated_4_20241213101423320118.png",
+      "combined_json": {
+        "Caption": {
+          "Caption": "A deer standing in the snow with trees in the background."
+        },
+        "Detailed Caption": {
+          "Detailed Caption": "In this image we can see an animal on the snow. In the background there are trees and sky."
+        },
+        "Object Detection": {
+          "Object Detection": {
+            "bboxes": [
+              [
+                128.5120086669922,
+                87.552001953125,
+                1022.4640502929688,
+                1022.4640502929688
+              ]
+            ],
+            "labels": [
+              "deer"
+            ]
+          }
+        }
+      },
+      "modal_title": "Image"
+    },
+    {
+      "original_path": "./images/5.png",
+      "annotated_path": "./annotated/annotated_5_20241213101430752834.png",
+      "combined_json": {
+        "Caption": {
+          "Caption": "Two horses pulling a carriage through the snow."
+        },
+        "Detailed Caption": {
+          "Detailed Caption": "In this image I can see two horses which are brown and cream in color are standing on the snow. I can also see a cart which is brown in color, few trees, few mountains and the sky in the background."
+        },
+        "Object Detection": {
+          "Object Detection": {
+            "bboxes": [
+              [
+                151.04000854492188,
+                195.07200622558594,
+                1022.4640502929688,
+                1022.4640502929688
+              ],
+              [
+                370.176025390625,
+                195.07200622558594,
+                985.6000366210938,
+                1022.4640502929688
+              ],
+              [
+                162.3040008544922,
+                244.22401428222656,
+                628.2240600585938,
+                1022.4640502929688
+              ]
+            ],
+            "labels": [
+              "carriage",
+              "horse",
+              "horse"
+            ]
+          }
+        }
+      },
+      "modal_title": "Image"
+    },
+    {
+      "original_path": "./images/6.png",
+      "annotated_path": "./annotated/annotated_6_20241213101437747188.png",
+      "combined_json": {
+        "Caption": {
+          "Caption": "The Eiffel tower towering over the city of Paris."
+        },
+        "Detailed Caption": {
+          "Detailed Caption": "In this image we can see the Eiffel tower. We can also see some vehicles on the road, some poles, a group of trees, buildings and the sky which looks cloudy."
+        },
+        "Object Detection": {
+          "Object Detection": {
+            "bboxes": [
+              [
+                330.2400207519531,
+                60.928001403808594,
+                676.35205078125,
+                961.0240478515625
+              ]
+            ],
+            "labels": [
+              "tower"
+            ]
+          }
+        }
+      },
+      "modal_title": "Image"
+    },
+    {
+      "original_path": "./images/7.png",
+      "annotated_path": "./annotated/annotated_7_20241213101444897070.png",
+      "combined_json": {
+        "Caption": {
+          "Caption": "An aerial view of the ocean and sand."
+        },
+        "Detailed Caption": {
+          "Detailed Caption": "In this image I can see few trees in green color and the sky is in blue and white color."
+        },
+        "Object Detection": {
+          "Object Detection": {
+            "bboxes": [
+              [
+                283.1360168457031,
+                834.0480346679688,
+                366.08001708984375,
+                943.6160278320312
+              ]
+            ],
+            "labels": [
+              "flower"
+            ]
+          }
+        }
+      },
+      "modal_title": "Image"
+    },
+    {
+      "original_path": "./images/8.png",
+      "annotated_path": "./annotated/annotated_8_20241213101451768549.png",
+      "combined_json": {
+        "Caption": {
+          "Caption": "A tennis ball with a white stripe on it."
+        },
+        "Detailed Caption": {
+          "Detailed Caption": "In this image we can see a ball."
+        },
+        "Object Detection": {
+          "Object Detection": {
+            "bboxes": [
+              [
+                93.69600677490234,
+                109.0560073852539,
+                872.9600219726562,
+                894.4640502929688
+              ]
+            ],
+            "labels": [
+              "tennis ball"
+            ]
+          }
+        }
+      },
+      "modal_title": "Image"
+    },
+    {
+      "original_path": "./images/9.png",
+      "annotated_path": "./annotated/annotated_9_20241213101459865638.png",
+      "combined_json": {
+        "Caption": {
+          "Caption": "A brick house with a white garage door."
+        },
+        "Detailed Caption": {
+          "Detailed Caption": "In this image we can see a house with roof, windows, door, pillars, flower pot, plants, grass, pathway and sky with clouds in the background."
+        },
+        "Object Detection": {
+          "Object Detection": {
+            "bboxes": [
+              [
+                605.696044921875,
+                574.9760131835938,
+                1022.4640502929688,
+                765.4400634765625
+              ],
+              [
+                412.1600341796875,
+                563.7120361328125,
+                535.0400390625,
+                739.8400268554688
+              ],
+              [
+                450.04803466796875,
+                569.8560180664062,
+                529.9200439453125,
+                735.7440185546875
+              ],
+              [
+                572.9280395507812,
+                722.4320068359375,
+                614.9120483398438,
+                775.6800537109375
+              ],
+              [
+                0.5120000243186951,
+                177.66400146484375,
+                1022.4640502929688,
+                811.52001953125
+              ],
+              [
+                376.32000732421875,
+                737.7920532226562,
+                577.0240478515625,
+                774.6560668945312
+              ],
+              [
+                36.35200119018555,
+                546.3040161132812,
+                297.4720153808594,
+                722.4320068359375
+              ],
+              [
+                611.8400268554688,
+                581.1200561523438,
+                1022.4640502929688,
+                621.0560302734375
+              ],
+              [
+                723.4560546875,
+                584.1920166015625,
+                818.6880493164062,
+                617.9840087890625
+              ],
+              [
+                833.0240478515625,
+                584.1920166015625,
+                927.2320556640625,
+                617.9840087890625
+              ],
+              [
+                614.9120483398438,
+                583.1680297851562,
+                709.1200561523438,
+                617.9840087890625
+              ],
+              [
+                942.592041015625,
+                584.1920166015625,
+                1022.4640502929688,
+                617.9840087890625
+              ],
+              [
+                244.22401428222656,
+                253.4400177001953,
+                288.2560119628906,
+                315.9040222167969
+              ],
+              [
+                143.87200927734375,
+                340.4800109863281,
+                187.9040069580078,
+                400.8960266113281
+              ]
+            ],
+            "labels": [
+              "door",
+              "door",
+              "door",
+              "flowerpot",
+              "house",
+              "porch",
+              "window",
+              "window",
+              "window",
+              "window",
+              "window",
+              "window",
+              "window",
+              "window"
+            ]
+          }
+        }
+      },
+      "modal_title": "Image"
+    }
+  ]
+}
