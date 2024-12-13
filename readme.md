@@ -150,5 +150,4 @@ Daniel Penrod
 - [LinkedIn](https://www.linkedin.com/in/daniel-penrod-sr)
 
 ---
-```
 Feel free to explore the object detection results on your images and filter the gallery by detected objects. What will you find? 🕵️‍♂️
