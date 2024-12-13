@@ -2,7 +2,7 @@
   "images": [
     {
       "original_path": "./images/1.png",
-      "annotated_path": "./annotated/annotated_1_20241213101347616461.png",
+      "annotated_path": "./annotated/annotated_1_20241213112134249411.png",
       "combined_json": {
         "Caption": {
           "Caption": "A man standing next to a bike in front of graffiti covered shutters."
@@ -79,7 +79,7 @@
     },
     {
       "original_path": "./images/10.png",
-      "annotated_path": "./annotated/annotated_10_20241213101354250958.png",
+      "annotated_path": "./annotated/annotated_10_20241213112140666172.png",
       "combined_json": {
         "Caption": {
           "Caption": "The sun is setting over a small island in the ocean."
@@ -107,7 +107,7 @@
     },
     {
       "original_path": "./images/11.png",
-      "annotated_path": "./annotated/annotated_11_20241213101402616844.png",
+      "annotated_path": "./annotated/annotated_11_20241213112148497931.png",
       "combined_json": {
         "Caption": {
           "Caption": "A living room with a couch, ottoman and a kitchen."
@@ -212,7 +212,7 @@
     },
     {
       "original_path": "./images/2.png",
-      "annotated_path": "./annotated/annotated_2_20241213101409665675.png",
+      "annotated_path": "./annotated/annotated_2_20241213112155058758.png",
       "combined_json": {
         "Caption": {
           "Caption": "A squirrel standing on its hind legs next to a plate of flowers."
@@ -261,7 +261,7 @@
     },
     {
       "original_path": "./images/3.jpg",
-      "annotated_path": "./annotated/annotated_3_20241213101416471076.png",
+      "annotated_path": "./annotated/annotated_3_20241213112201329800.png",
       "combined_json": {
         "Caption": {
           "Caption": "A green car parked in front of a yellow building."
@@ -303,7 +303,7 @@
     },
     {
       "original_path": "./images/4.png",
-      "annotated_path": "./annotated/annotated_4_20241213101423320118.png",
+      "annotated_path": "./annotated/annotated_4_20241213112207580950.png",
       "combined_json": {
         "Caption": {
           "Caption": "A deer standing in the snow with trees in the background."
@@ -331,7 +331,7 @@
     },
     {
       "original_path": "./images/5.png",
-      "annotated_path": "./annotated/annotated_5_20241213101430752834.png",
+      "annotated_path": "./annotated/annotated_5_20241213112214438037.png",
       "combined_json": {
         "Caption": {
           "Caption": "Two horses pulling a carriage through the snow."
@@ -373,7 +373,7 @@
     },
     {
       "original_path": "./images/6.png",
-      "annotated_path": "./annotated/annotated_6_20241213101437747188.png",
+      "annotated_path": "./annotated/annotated_6_20241213112221005873.png",
       "combined_json": {
         "Caption": {
           "Caption": "The Eiffel tower towering over the city of Paris."
@@ -401,7 +401,7 @@
     },
     {
       "original_path": "./images/7.png",
-      "annotated_path": "./annotated/annotated_7_20241213101444897070.png",
+      "annotated_path": "./annotated/annotated_7_20241213112227643823.png",
       "combined_json": {
         "Caption": {
           "Caption": "An aerial view of the ocean and sand."
@@ -429,7 +429,7 @@
     },
     {
       "original_path": "./images/8.png",
-      "annotated_path": "./annotated/annotated_8_20241213101451768549.png",
+      "annotated_path": "./annotated/annotated_8_20241213112234359544.png",
       "combined_json": {
         "Caption": {
           "Caption": "A tennis ball with a white stripe on it."
@@ -457,7 +457,7 @@
     },
     {
       "original_path": "./images/9.png",
-      "annotated_path": "./annotated/annotated_9_20241213101459865638.png",
+      "annotated_path": "./annotated/annotated_9_20241213112242154487.png",
       "combined_json": {
         "Caption": {
           "Caption": "A brick house with a white garage door."
