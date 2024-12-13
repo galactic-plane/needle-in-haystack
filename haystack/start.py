@@ -274,12 +274,7 @@ html_content = f"""
             <div class="col-sm-8 col-md-7 py-4">
               <h4 class="text-white">About</h4>
               <p class="text-white">
-                This script leverages the Microsoft Florence-2 API to process images and generate an interactive HTML gallery. It performs tasks such
-                as caption generation and object detection, annotating images with bounding boxes and labels for detected objects. The results are
-                formatted into a JSON structure and presented alongside annotated images. Using Bootstrap for styling and D3.js for visualization, the
-                gallery includes a treemap to represent label occurrences, enabling users to filter images by detected objects. This solution is
-                practical for applications in research, presentations, and automated inspection systems, where visualizing AI-driven insights is
-                essential.
+                Needle in a Haystack is a project that leverages the Microsoft Florence-2 API to process images and generate an interactive HTML gallery. It performs tasks such as caption generation and object detection, annotating images with bounding boxes and labels for detected objects. The results are formatted into a JSON structure and presented alongside annotated images. Using Bootstrap for styling and D3.js for visualization, the gallery includes a treemap to represent label occurrences, enabling users to filter images by detected objects.
               </p>
             </div>
             <div class="col-sm-4 offset-md-1 py-4">
@@ -535,4 +530,4 @@ with open(output_html, "w") as html_file:
 print(f"HTML gallery saved as: {output_html}")
 
 # Start the server
-subprocess.Popen(['start', 'cmd', '/k', 'python server.py'], shell=True)
+subprocess.Popen(["start", "cmd", "/k", "python server.py"], shell=True)
