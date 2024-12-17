@@ -44,7 +44,6 @@ setup.py
 
 ```sh
 git clone https://github.com/yourusername/needle-in-haystack.git
-cd needle-in-haystack/haystack
 ```
 
 2. Install the required Python packages:
@@ -82,6 +81,7 @@ Before processing images, you need to install Pinokio and download the Florence2
 To process images and generate the annotated results first start pinokio and launch Florence2, then run:
 
 ```sh
+cd haystack
 python start.py
 ```
 
