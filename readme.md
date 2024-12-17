@@ -66,21 +66,20 @@ requirements.txt
 Before processing images, you need to install Pinokio and download the Florence2 Model.
 
 1. **Install Pinokio:**
-   - If Pinokio is not already installed, you can install it using pip:
-     ```sh
-     pip install pinokio
-     ```
+   - If Pinokio is not already installed, you can install it here:
+     
+     https://program.pinokio.computer/#/?id=windows
 
 2. **Download the Florence2 Model:**
-   - After installing Pinokio, download the Florence2 Model by running:
-     ```sh
-     pinokio download florence2
-     ```
+   - After installing Pinokio, download the Florence2 Model:
+    
+     https://pinokio.computer/item?uri=https://github.com/pinokiofactory/florence2
+
    - This will download and set up the Florence2 Model in the appropriate directory.
 
 ### 🖼️ Processing Images 🖼️
 
-To process images and generate the annotated results, run:
+To process images and generate the annotated results first start pinokio and launch Florence2, then run:
 
 ```sh
 python start.py
